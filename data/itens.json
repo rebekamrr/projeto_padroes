@@ -1,0 +1,22 @@
+[
+    {
+        "item": "pizza",
+        "valor": 15.00
+    },
+    {
+        "item": "pastel",
+        "valor": 5.00
+    },
+    {
+        "item": "tapioca",
+        "valor": 7.00
+    },
+    {
+        "item": "suco",
+        "valor": 4.00
+    },
+    {
+        "item": "coxinha",
+        "valor": 5.00
+    }
+]
